@@ -4,7 +4,7 @@
 - **Data Processing**: Data Cleaning and Preprocessing  
 - **Analytical Tools**: Exploratory Data Analysis (EDA) with Python  
 - **Data Management**: SQL for data storage and querying  
-- **Visualization**: Power BI/Tableau dashboards  
+- **Visualization**: Power BI dashboards  
 
 ## Domain
 **Retail Analytics** in the Electronics Industry
