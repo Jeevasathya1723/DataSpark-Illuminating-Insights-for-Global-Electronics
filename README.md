@@ -46,3 +46,6 @@ Deliverables include:
 - Comprehensive insights into customer demographics, purchasing behaviors, product performance, and store operations.  
 - Actionable recommendations for strategic decisions in marketing, inventory, sales, and operations.  
 - Improved business strategies to maximize revenue and ensure sustainable growth.
+
+  ## Output POWER BI Visualization
+![image](https://github.com/user-attachments/assets/02cd2c39-e71b-4b9a-8f25-51833bd93e07)
